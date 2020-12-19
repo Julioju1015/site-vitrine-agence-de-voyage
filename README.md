@@ -35,7 +35,7 @@ Installation du site
 1. Cloner le github
 
 ```
-git clone https://github.com/Dev-Mamba/site-vitrine-agence-de-voyage.git
+git clone https://github.com/julioju1015/site-vitrine-agence-de-voyage.git
 ```
 
 
