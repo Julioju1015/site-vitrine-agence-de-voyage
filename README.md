@@ -30,7 +30,7 @@ Ces instructions vous permettront d'obtenir une copie du projet sur votre machin
 
 ### Installation
 
-Installation du bot
+Installation du site
 
 1. Cloner le github
 
